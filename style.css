@@ -1,0 +1,9 @@
+nav {
+  box-shadow: 0px 4px gainsboro;
+}
+
+#bottom {
+  width: 100%;
+  background-color: black;
+  color: gray;
+}
